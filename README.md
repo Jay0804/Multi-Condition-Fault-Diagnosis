@@ -2,7 +2,8 @@
 We have released a review paper named [Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects](https://arxiv.org/pdf/2412.19497) to the community. In this review, we provide a comprehensive analysis of the literature on multi-condition fault diagnosis (MCFD), a rapidly evolving research area. To establish a clear foundation, we propose a mathematical definition of multi-condition scenarios. The paper categorizes MCFD methods, summarizes approximately 210 studies from the past two decades, and evaluates the metrics used to assess these methods. Additionally, we discuss the application scenarios, challenges, and future directions of MCFD research, aiming to offer a systematic and insightful overview for researchers and practitioners in the field.
 
 To further support the community, we plan to continuously update this repository with newly collected articles and corresponding code implementations. We hope these efforts will foster collaboration and innovation in the field of MCFD. If you have any questions or suggestions, please feel free to reach out to us.
-![image](https://github.com/user-attachments/assets/3e38526d-fee1-43cb-8d9d-99e5420e0f42)
+
+![image](https://github.com/user-attachments/assets/bbf18644-64c3-4db7-be43-af81ebd600d0)
 
 ### 1. Different framworks in multi-condition fault diagnosis
 | Symbol | `HF` | `LR` | `FG` | `IG` |
