@@ -184,7 +184,8 @@ To further support the community, we plan to continuously update this repository
 
 ### 3. Citation
 If this repository is helpful to you, please cite our survey.
-`@article{han2024multiconditionfaultdiagnosisdynamic,
+```
+@article{han2024multiconditionfaultdiagnosisdynamic,
       title={Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects}, 
       author={Pengyu Han and Zeyi Liu and Xiao He and Steven X. Ding and Donghua Zhou},
       year={2024},
@@ -192,5 +193,6 @@ If this repository is helpful to you, please cite our survey.
       archivePrefix={arXiv},
       primaryClass={eess.SY},
       url={https://arxiv.org/abs/2412.19497}, 
-}`
+}
+```
 
