@@ -1,7 +1,8 @@
 ## Multi-Condition Fault Diagnosis: A Survey, Insights, and Prospects
-In this review, we provide a comprehensive analysis of the literature on multi-condition fault diagnosis (MCFD), a rapidly evolving research area. To establish a clear foundation, we propose a mathematical definition of multi-condition scenarios. The paper categorizes MCFD methods, summarizes approximately 210 studies from the past two decades, and evaluates the metrics used to assess these methods. Additionally, we discuss the application scenarios, challenges, and future directions of MCFD research, aiming to offer a systematic and insightful overview for researchers and practitioners in the field.
+We have released a review paper named [Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects](https://arxiv.org/pdf/2412.19497) to the community. In this review, we provide a comprehensive analysis of the literature on multi-condition fault diagnosis (MCFD), a rapidly evolving research area. To establish a clear foundation, we propose a mathematical definition of multi-condition scenarios. The paper categorizes MCFD methods, summarizes approximately 210 studies from the past two decades, and evaluates the metrics used to assess these methods. Additionally, we discuss the application scenarios, challenges, and future directions of MCFD research, aiming to offer a systematic and insightful overview for researchers and practitioners in the field.
 
 To further support the community, we plan to continuously update this repository with newly collected articles and corresponding code implementations. We hope these efforts will foster collaboration and innovation in the field of MCFD. If you have any questions or suggestions, please feel free to reach out to us.
+![image](https://github.com/user-attachments/assets/3e38526d-fee1-43cb-8d9d-99e5420e0f42)
 
 ### 1. Different framworks in multi-condition fault diagnosis
 | Symbol | `HF` | `LR` | `FG` | `IG` |
@@ -179,4 +180,16 @@ To further support the community, we plan to continuously update this repository
 | [A new fault diagnosis method of multimode processes using Bayesian inference based Gaussian mixture contribution decomposition](https://linkinghub.elsevier.com/retrieve/pii/S0952197612002199)|Engineering Applications of Artificial Intelligence|2013| `FG` |
 | [Automatic diagnosis method for structural fault of rotating machinery based on distinctive frequency components and support vector machines under varied operating conditions](https://linkinghub.elsevier.com/retrieve/pii/S0925231212007217)|Neurocomputing|2013| `HF` |
 | [Diagnosis of Induction Motor Faults in Time-Varying Conditions Using the Polynomial-Phase Transform of the Current](https://ieeexplore.ieee.org/document/5475252/)|IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS|2011| `HF` |
+
+### 3. Citation
+If this repository is helpful to you, please cite our survey.
+`@article{han2024multiconditionfaultdiagnosisdynamic,
+      title={Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects}, 
+      author={Pengyu Han and Zeyi Liu and Xiao He and Steven X. Ding and Donghua Zhou},
+      year={2024},
+      eprint={2412.19497},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2412.19497}, 
+}`
 
