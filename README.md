@@ -21,7 +21,6 @@ If this repository is helpful to you, please cite our survey.
   year={2024},
   eprint={2412.19497},
   archivePrefix={arXiv},
-  primaryClass={eess.SY},
   url={https://arxiv.org/abs/2412.19497}, 
 }
 ```
