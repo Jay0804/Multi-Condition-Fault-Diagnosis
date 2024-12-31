@@ -7,12 +7,26 @@ To further support the community, we plan to continuously update this repository
 
 ![image](https://github.com/user-attachments/assets/bbf18644-64c3-4db7-be43-af81ebd600d0)
 
-### 1. Different framworks in multi-condition fault diagnosis
+### Different framworks in multi-condition fault diagnosis
 | Symbol | `HF` | `LR` | `FG` | `IG` |
 | --- | --- | --- | --- | --- | 
 |Framework|Handcrafted Features|Learned Representations|Fusion-Guided|Identification-Guided|
 
-### 2. Recent papers on MCFD (Updated on 2024 December)
+### Citation
+If this repository is helpful to you, please cite our survey.
+```
+@article{han2024multiconditionfaultdiagnosisdynamic,
+  title={Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects}, 
+  author={Pengyu Han and Zeyi Liu and Xiao He and Steven X. Ding and Donghua Zhou},
+  year={2024},
+  eprint={2412.19497},
+  archivePrefix={arXiv},
+  primaryClass={eess.SY},
+  url={https://arxiv.org/abs/2412.19497}, 
+}
+```
+
+### Recent papers on MCFD (Updated on 2024 December)
 | Title | Journal | Year |  Technical Roadmap | Code Availability|
 | :----- | :------ | :-------: | :---: | --- |
 | [Deep subdomain adversarial network with self-supervised learning for aero-engine high speed bearing fault diagnosis with unknown working conditions](https://linkinghub.elsevier.com/retrieve/pii/S0263224124015537)|Measurement|2024| `LR` |
@@ -183,18 +197,3 @@ To further support the community, we plan to continuously update this repository
 | [A new fault diagnosis method of multimode processes using Bayesian inference based Gaussian mixture contribution decomposition](https://linkinghub.elsevier.com/retrieve/pii/S0952197612002199)|Engineering Applications of Artificial Intelligence|2013| `FG` |
 | [Automatic diagnosis method for structural fault of rotating machinery based on distinctive frequency components and support vector machines under varied operating conditions](https://linkinghub.elsevier.com/retrieve/pii/S0925231212007217)|Neurocomputing|2013| `HF` |
 | [Diagnosis of Induction Motor Faults in Time-Varying Conditions Using the Polynomial-Phase Transform of the Current](https://ieeexplore.ieee.org/document/5475252/)|IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS|2011| `HF` |
-
-### 3. Citation
-If this repository is helpful to you, please cite our survey.
-```
-@article{han2024multiconditionfaultdiagnosisdynamic,
-  title={Multi-Condition Fault Diagnosis of Dynamic Systems: A Survey, Insights, and Prospects}, 
-  author={Pengyu Han and Zeyi Liu and Xiao He and Steven X. Ding and Donghua Zhou},
-  year={2024},
-  eprint={2412.19497},
-  archivePrefix={arXiv},
-  primaryClass={eess.SY},
-  url={https://arxiv.org/abs/2412.19497}, 
-}
-```
-
